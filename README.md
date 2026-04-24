@@ -21,7 +21,7 @@
 
 ---
 
-## Fixes 🛠️
+## 🛠️ Fixes 
 if you got Error " no module named "tkinter""  
 - Fix:
    - Open Terminal (cmd) As admin  
