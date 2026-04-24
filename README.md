@@ -6,10 +6,7 @@
 
 ## ⚡ How to Run
 
-1. Extract the ZIP file anywhere on your PC.  
-2. Double-click the following file to start the tool:
-3. For full system access and best performance:
-   - Run RunGUI.bat
+   - Run Setup.exe
    - Click **"Restart as Administrator"**
    ---
 
@@ -41,14 +38,6 @@ if you got Error " no module named "tkinter""
 - 🧬 Registry-based gaming tweaks  
 
 ---
-
-## ⚠️ Important Notes
-
-- Some features modify system settings such as:
-  - Windows Registry
-  - Network configuration (DNS / TCP)
-  - Power settings
-  - System services
 
 - **FULL BOOST mode applies all optimizations at once.**
 
