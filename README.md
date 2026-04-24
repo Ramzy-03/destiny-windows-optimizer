@@ -16,7 +16,7 @@
 ## 🧩 Requirements
 
 - Windows 10 / 11  
-- Python 3.x installed  
+- Python 3.10.0 installed ( in the Releases)
 - Administrator privileges (recommended)
 
 ---
@@ -48,6 +48,14 @@
   - Registry tweaks  
   - Service modifications  
   - Power plan changes  
+
+---
+## Fixes 🛠️
+if you got Error " no module named "tkinter""  
+Fix:
+1- Open Terminal (cmd) As admin
+2- type "pip install tkinter"
+3- fixed and have fun
 
 ---
 
