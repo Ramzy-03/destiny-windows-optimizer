@@ -52,11 +52,10 @@
 ---
 ## Fixes 🛠️
 if you got Error " no module named "tkinter""  
-Fix:
-1- Open Terminal (cmd) As admin
-2- type "pip install tkinter"
-3- fixed and have fun
-
+- Fix:
+   - Open Terminal (cmd) As admin  
+   - type "pip install tkinter"
+   - fixed and have fun
 ---
 
 ## 🎮 Recommended Usage
