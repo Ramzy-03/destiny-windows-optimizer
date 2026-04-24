@@ -21,6 +21,15 @@
 
 ---
 
+## Fixes 🛠️
+if you got Error " no module named "tkinter""  
+- Fix:
+   - Open Terminal (cmd) As admin  
+   - type "pip install tkinter"
+   - fixed and have fun
+     
+---
+
 ## 🔥 Features
 
 - 🎮 FPS Boost & Gaming Performance Mode  
@@ -49,13 +58,6 @@
   - Service modifications  
   - Power plan changes  
 
----
-## Fixes 🛠️
-if you got Error " no module named "tkinter""  
-- Fix:
-   - Open Terminal (cmd) As admin  
-   - type "pip install tkinter"
-   - fixed and have fun
 ---
 
 ## 🎮 Recommended Usage
